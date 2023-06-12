@@ -1,17 +1,17 @@
 # Riddle
 ## Riddle is a 15 puzzle game
 
-### Start playing for free
+## Start playing for free
 ![start screen](./img/menu.png)
 
-### See wourld fastest players
+## See wourld fastest players
 ![rating table](./img/table.png)
 
-### See your previous games
+## See your previous games
 ![prev games](./img/my-table.png)
 
 
-### Save your result and become the best
+## Save your result and become the best
 ![save](./img/save.png)
 
 
